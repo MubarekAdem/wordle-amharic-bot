@@ -1,0 +1,21 @@
+{
+  "name": "amharic-wordle-telegram-bot",
+  "version": "1.0.0",
+  "description": "Amharic Wordle Game Bot for Telegram using sendWidget and answerWidgetQuery",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test_engine.js",
+    "start": "node run_bot.js"
+  },
+  "keywords": [
+    "amharic",
+    "wordle",
+    "fidel",
+    "telegram",
+    "bot",
+    "sendwidget"
+  ],
+  "author": "",
+  "license": "ISC"
+}

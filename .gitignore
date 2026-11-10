@@ -1,0 +1,7 @@
+node_modules/
+.env
+.DS_Store
+*.log
+wiki_titles_4.json
+wiki_words.json
+compress_widget.js
