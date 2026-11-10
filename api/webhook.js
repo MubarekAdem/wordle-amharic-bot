@@ -18,6 +18,8 @@ async function sendWordleWidget(chatId) {
   const body = {
     chat_id: chatId,
     html: widgetHtml,
+    width: 0,
+    height: 560,
     reply_markup: {
       inline_keyboard: [
         [
